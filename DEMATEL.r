@@ -1,6 +1,13 @@
+Copyright (c) 2015-2016 Tung Shuo Wu
+
+Email: tommywu6@hotmail.com
+
+#.............................................................
 Acknowledgements. 
 I would like to express my sincere thanks to Professor Wei-Wen Wu and Hau-Ting Nian for helping the completion of this R code in terms of DEMATEL.
+
 #.............................................................
+
 setwd("")
 Z=read.csv("myfile.csv", header=TRUE, sep=",", row.names=1)
 D=c(); R=c()
